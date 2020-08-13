@@ -1,6 +1,6 @@
-###100 Days Of Code - Log
+### 100 Days Of Code - Log
 
-###Day 1: Friday August 7, 2020
+### Day 1: Friday August 7, 2020
 
 **Today's Progress:**
 
@@ -13,7 +13,7 @@ I'm pretty new to coding and finding reading through Eloquent JavaScript to be t
 **Link(s) to work:**
 N/A today (filling this in late)
 
-###Day 2: Saturday August 8, 2020
+### Day 2: Saturday August 8, 2020
 
 **Today's Progress:**
 
@@ -25,7 +25,7 @@ Not as much time to work on coding today as I hoped so didn't end up getting to 
 **Link(s) to work:**
 N/A today (filling this in late)
 
-###Day 3: Sunday August 9, 2020
+### Day 3: Sunday August 9, 2020
 
 **Today's Progress:**
 
@@ -38,7 +38,7 @@ The algorithms are great practice for job interviews. I enjoyed working through 
 **Link(s) to work:**
 N/A today (filling this in late)
 
-###Day 4: Monday August 10, 2020
+### Day 4: Monday August 10, 2020
 
 **Today's Progress:**
 
@@ -51,7 +51,7 @@ Definitely finding the algorithms a little bit tricky, but worth the practice fo
 **Link(s) to work:**
 <a href=https://github.com/kelsi2/100-days-of-code/tree/master/Day4>Day 4 Coding Files</a>
 
-###Day 5: Tuesday August 11, 2020
+### Day 5: Tuesday August 11, 2020
 
 **Today's Progress:**
 
@@ -65,7 +65,7 @@ Jekyll seems tricky but I'm getting used to it! Exciting stuff setting up my fir
 **Link(s) to work:**
 <a href= https://github.com/kelsi2/kelsi2.github.io>New GitHub website repository</a>
 
-###Day 6: Wednesday August 12, 2020
+### Day 6: Wednesday August 12, 2020
 
 **Today's Progress:**
 
